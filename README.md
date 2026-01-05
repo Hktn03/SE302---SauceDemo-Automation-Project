@@ -7,6 +7,8 @@ This repository contains a comprehensive automated test suite for the [SauceDemo
 * **Atacan Acar**
 * **Yunus Yedek**
 * **Meral Buse Yalciner**
+* **Haktan Özkan**
+
 
 ---
 
@@ -78,3 +80,4 @@ During the development process, we addressed key automation challenges as outlin
 
 ---
 *Developed for the Faculty of Engineering and Natural Sciences at the International University of Sarajevo (IUS) - 2026.*
+
